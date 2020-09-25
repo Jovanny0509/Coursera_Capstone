@@ -22,5 +22,5 @@
 ## Files:
 1. Code file
 2. Document or report
-3. Link to blog
+3. Link to blog: https://jovannyulloap.blogspot.com/2020/09/capstone-final-project-car-accident.html
 
